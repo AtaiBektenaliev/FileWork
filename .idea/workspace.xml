@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bf758cf-f0ad-4b8b-9761-fa3feb4f8880" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FilesWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oldFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FilesWork/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beecrowd/beecrowd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../beecrowd/src/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptionWork/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptionWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptionWork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptionWork/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptionWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptionWork/exceptionWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exceptionWork/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/interfaceWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/out/production/interfaceWork/Drum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/out/production/interfaceWork/Guitar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/out/production/interfaceWork/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/out/production/interfaceWork/Pipe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/out/production/interfaceWork/Tool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/src/Drum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/src/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/src/Pipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/src/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/src/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaceWork/src/task2/Seasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/src/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/src/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/src/Lesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uro/uro.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IRJ55SIcfp3BuNprUkj6WD72Ly" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="FilesWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bf758cf-f0ad-4b8b-9761-fa3feb4f8880" name="Changes" comment="" />
+      <created>1670138277778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670138277778</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
